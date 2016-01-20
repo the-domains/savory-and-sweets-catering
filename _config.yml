@@ -11,15 +11,15 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
-  lightness: 1
+  saturation: 0.7524167
   brandStrength: 0
+  lightness: 1
   brandColors:
     - '#0E0D0C'
     - '#FFFFFC'
     - '#876D67'
     - '#C8C5BC'
-  rhythmicContrast: 0.7524167
+  rhythmicContrast: 0.245435
 typography_spectrum: 0.8899033
-layout_spectrum: 0.2636949
+layout_spectrum: 0.2733619
 name: Savory and Sweets Catering
